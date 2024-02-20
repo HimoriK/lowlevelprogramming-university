@@ -1,9 +1,7 @@
-NOTICE1: [Original](https://github.com/gurugio/lowlevelprogramming-university)
+[Original](https://github.com/gurugio/lowlevelprogramming-university)
 
-NOTICE2: Please notice that low-level programming is out of trend and currently there are not many companies hiring low-level developer. It is getting harder for me to find a job.
+Please know that low-level programming is out of trend and currently there are not many companies hiring low-level developer. It is getting harder for me to find a job.
 If you haven't started a professional career yet, I would like to recommend you consider other fields either carefully.
-
-NOTICE3: If you want a quick start, go to "How to start?".
 
 * [Low-Level Programming University](#low-level-programming-university)
   * [What is it?](#what-is-it)
